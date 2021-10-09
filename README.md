@@ -1,7 +1,7 @@
 
 # Hi, I'm Daniel Ribeiro!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/peguimasid)](https://github.com/peguimasid)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/academicodan)](https://github.com/academicodan)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/dan-tribeiro/)](https://www.linkedin.com/in/dan-tribeiro/)
 
 ## About me:
