@@ -6,7 +6,7 @@
 
 ## About me:
 
-I'm a Front-end Developer :smile:
+I'm a Front-end Developer :computer:
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
@@ -28,7 +28,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 ### Others: <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL%20-e535ab.svg?&style=for-the-badge&logo=graphql&logoColor=white"/> 
 
-## What I don't know, give me a few days 😁
+## What I don't know, give me a few days :nerd_face:
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=academicodan&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
